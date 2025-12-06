@@ -1,0 +1,5 @@
+{
+  "name": "Professeur de Français AI",
+  "description": "Un tuteur expert en orthographe et grammaire française utilisant Gemini pour des dictées, des corrections et des exercices personnalisés.",
+  "requestFramePermissions": []
+}
